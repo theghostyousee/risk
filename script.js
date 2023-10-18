@@ -27,5 +27,6 @@ function clickonbody() {
 
 window.onload = function() {
     document.getElementById("muerto").addEventListener('click', clickonbody);
+    document.getElementById("muert").addEventListener('click', clickonbody);
 
 }

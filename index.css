@@ -22,12 +22,20 @@ img:hover {
   cursor: pointer;
 }
 
+
+
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    cursor: pointer;
+}
+
 body {
   height: 100vh;
   overflow: hidden;
   width: 100%;
   display: flex;
-  color: rgb(0, 0, 0);
+
   align-items: center;
   flex-direction: column;
   background-color: #FF4338;
